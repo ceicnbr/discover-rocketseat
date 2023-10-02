@@ -30,4 +30,4 @@ Você pode visualizar o layout através [DESSE LINK](https://www.figma.com/commu
 Esse projeto está sob a licença MIT.
 
 ---
-Feito com ❤ by Rocketseat :wave: [Participe da nossa comunidade!](https>//discord.gg/rocketseat)
+Feito com ❤ by Rocketseat [Participe da nossa comunidade!](https>//discord.gg/rocketseat)
